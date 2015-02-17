@@ -1,0 +1,167 @@
+
+
+@charset "utf-8";
+
+
+@media only screen 
+and (min-width : 768px) 
+and (max-width : 1024px) 
+and (orientation : portrait) {
+	
+	
+	
+	
+	
+	
+	#index{
+	background-image:url(../img/indexbg.jpg);
+background-repeat: no-repeat;
+background-size: 100% 1024px;
+width: 100%;
+height: 1024px;;
+	
+	}
+	
+
+
+#text {
+	
+margin-top: 446px;
+margin-left: 569px;
+}
+
+#text a {
+	font-family: Cheddar Jack;
+cursor: pointer;
+color: white;
+text-decoration: none;
+letter-spacing: 3px;
+font-size: 75px;
+word-spacing: 2px;
+margin-left: -386px;
+margin-top: 2px;
+}
+
+
+
+#logo {
+background-image: url(../img/hometransnew.png);
+background-repeat: no-repeat;
+background-size: 291px 145px;
+height: 162px;
+width: 303px;
+margin-top: -267px;
+margin-left: 338px;
+cursor: pointer;
+}
+	
+	
+	
+	
+	
+	
+	
+	#emily{
+	background-image: url(../img/whoweare.jpg);
+background-repeat: no-repeat;
+background-size: 100% 1024px;
+width: 100%;
+height: 1024px;
+	
+}
+	
+	#titleemily
+{
+	padding-top: 62px;
+font-family: Orator Std Medium;
+color: white;
+font-size: 26px;
+letter-spacing: 5px;
+margin-top: 5px;
+margin-left: 112px;
+}
+
+#Emilylogo
+{
+
+background-repeat: no-repeat;
+background-size: 291px 145px;
+height: 162px;
+width: 229px;
+margin-top: -115px;
+margin-left: 424px;
+cursor: pointer;
+}
+#imgemily
+{
+	padding-top: 4px;
+margin-left: 64px;
+	}
+
+#caption
+{
+font-family: "Orator Std Medium";
+font-size: 16px;
+text-align: center;
+color: black;
+word-spacing: 2px;
+letter-spacing: 3px;
+margin-left: -388px;
+margin-top: 19px;
+	
+}
+
+#contemily
+{
+font-family: "Orator Std Medium";
+font-size: 19px;
+text-align: center;
+color: white;
+word-spacing: 0px;
+letter-spacing: 0px;
+margin-left: -391px;
+margin-top: 34px;
+line-height: 2.0;
+	
+}
+#backemily
+{
+background-repeat: no-repeat;
+width: 33px;
+height: 159px;
+background-size: 60px 155px;
+margin-top: -79px;
+margin-left: -20px;
+margin-bottom: 0px;
+cursor: pointer;
+}
+#contadri
+{
+font-family: "Orator Std Medium";
+font-size: 19px;
+text-align: center;
+color: white;
+word-spacing: -4px;
+letter-spacing: 3px;
+margin-left: -498px;
+margin-top: 4px;
+line-height: 1.6;
+	
+}	
+
+
+#contmeli
+{
+font-family: "Orator Std Medium";
+font-size: 19px;
+text-align: center;
+color: white;
+word-spacing: -4px;
+letter-spacing: 3px;
+margin-left: -498px;
+margin-top: 4px;
+line-height: 1.6;
+	
+}		
+
+}

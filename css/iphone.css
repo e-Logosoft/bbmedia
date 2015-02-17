@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/* iPhone 5 (portrait &amp; landscape)----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
+
+
+
+
+
+	#index{
+	background-image: url(../img/indexbg.jpg);
+background-repeat: no-repeat;
+background-size: 100% 568px;
+width: 100%;
+height: 568px;
+	
+	}
+	
+
+
+#text {
+	
+margin-top: 236px;
+margin-left: 569px;
+}
+
+#text a {
+	font-family: Cheddar Jack;
+cursor: pointer;
+color: white;
+text-decoration: none;
+letter-spacing: 3px;
+font-size: 33px;
+word-spacing: 2px;
+margin-left: -554px;
+margin-top: 53px;
+}
+
+
+
+#logo {
+background-image: url(../img/hometransnew.png);
+background-repeat: no-repeat;
+background-size: 143px 82px;
+height: 162px;
+width: 288px;
+margin-top: -148px;
+margin-left: 119px;
+cursor: pointer;
+}
+	
+	
+
+
+}

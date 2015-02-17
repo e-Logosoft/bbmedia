@@ -1,0 +1,308 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+
+@media only screen and (min-width : 1224px) {
+	
+	
+
+
+#index{
+	background-image:url(../img/indexbg.jpg);
+background-repeat: no-repeat;
+background-size: 100% 768px;;
+width: 100%;
+height: 768px;;
+	
+	}
+	
+
+
+#text {
+	
+margin: 340px 0 0 783px;
+}
+
+#text a {
+	font-family: Cheddar Jack;
+cursor: pointer;
+color: white;
+text-decoration: none;
+letter-spacing: 3px;
+font-size: 72px;
+word-spacing: 12px;
+margin-left: -163px;
+margin-top: 13px;
+}
+
+
+
+#logo {
+background-image: url(../img/hometransnew.png);
+background-repeat: no-repeat;
+background-size: 291px 145px;
+height: 162px;
+width: 303px;
+margin-top: -283px;
+margin-left: 820px;
+cursor: pointer;
+}
+
+
+
+
+
+
+
+#contwho
+{
+text-transform: uppercase;
+font-family: Orator Std Medium;
+font-size: 23px;
+color: white;
+word-spacing: 13px;
+line-height: 1.3;
+padding-left: 10px;
+padding-top: 18px;
+margin-top: -24px;
+margin-left: 62px;
+letter-spacing: 3px;
+}
+
+#whoweare
+{
+	font-family: Cheddar Jack;
+color: black;
+font-size: 78px;
+letter-spacing: 2px;
+margin-left: 142px;
+margin-top: 61px;
+	
+	
+}
+
+#bio1
+{
+	text-decoration:none;
+	color:black;
+	text-transform:uppercase;
+	text-align:center;
+	font-family:Orator Std Medium;
+	font-size:26px;
+	line-height:1.6;
+	margin-bottom:4px;
+	margin-left:130px;
+	margin-top:5px;
+	font:bold;
+}
+#bio2
+{
+	text-decoration:none;
+	color:black;
+	text-transform:uppercase;
+	text-align:center;
+	font-family:Orator Std Medium;
+	font-size:26px;
+	line-height:1.6;
+	margin-bottom:4px;
+	margin-left:157px;
+	font:bold;
+}
+#bio3
+{
+	text-decoration:none;
+	color:black;
+	text-transform:uppercase;
+	text-align:center;
+	font-family:Orator Std Medium;
+	font-size:26px;
+	line-height:1.6;
+	margin-bottom:4px;
+	margin-left:142px;
+	font:bold;
+	
+	
+}
+
+#bio
+{
+	
+	margin-top:-41px;
+	
+}
+
+
+.bioem
+{
+	margin-left:23px;
+	
+}
+.biomel
+{
+margin-left:6px;	
+}
+
+
+
+#backwho
+{
+
+width: 73px;
+height: 144px;
+margin-top: -20px;
+margin-left: -321px;
+margin-bottom: 0px;
+cursor: pointer;
+}
+
+
+#logoadrianna
+{
+	background-image: url(../img/logocontactus.png);
+background-repeat: no-repeat;
+background-size: 291px 145px;
+height: 162px;
+width: 303px;
+margin-top: -67px;
+margin-left: 826px;
+cursor: pointer;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#emily{
+	background-image: url(../img/whoweare.jpg);
+background-repeat: no-repeat;
+background-size: 100% 768px;
+width: 100%;
+height: 768px;
+	
+}
+
+
+#imgemily{
+	
+	margin-top: 119px;
+margin-left: -249px;
+	}
+#titleemily
+{
+	padding-top: 62px;
+font-family: Orator Std Medium;
+color: white;
+font-size: 26px;
+letter-spacing: 5px;
+margin-top: 5px;
+margin-left: 239px;
+}
+
+#Emilylogo
+{
+
+background-repeat: no-repeat;
+background-size: 272px 145px;
+height: 162px;
+width: 275px;
+margin-top: -231px;
+margin-left: 907px;
+cursor: pointer;
+}
+
+#caption
+{
+font-family: "Orator Std Medium";
+font-size: 16px;
+text-align: center;
+color: black;
+word-spacing: 2px;
+letter-spacing: 3px;
+margin-left: -269px;
+margin-top: 23px;
+	
+}
+
+#contemily
+{
+font-family: "Orator Std Medium";
+font-size: 20px;
+text-align: justify;
+color: white;
+word-spacing: 10px;
+letter-spacing: 3px;
+margin-left: 70px;
+margin-top: -2px;
+line-height: 1.3;
+	
+}
+#backemily
+{
+background-repeat: no-repeat;
+width: 49px;
+height: 159px;
+background-size: 60px 155px;
+margin-top: -129px;
+margin-left: -21px;
+margin-bottom: 0px;
+cursor: pointer;
+}
+
+#contadri
+{
+font-family: "Orator Std Medium";
+font-size: 20px;
+text-align: center;
+color: white;
+word-spacing: 10px;
+letter-spacing: 3px;
+margin-left: -259px;
+margin-top: -2px;}
+
+#contmeli
+{
+font-family: "Orator Std Medium";
+font-size: 20px;
+text-align: center;
+color: white;
+word-spacing: 10px;
+letter-spacing: 3px;
+margin-left: -259px;
+margin-top: -2px;
+line-height: 1.3;
+}
+}
+
+
+
+
