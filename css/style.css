@@ -1,0 +1,719 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+#theme
+{
+	background-image:url(newHomePage.jpg);
+	background-repeat:no-repeat;
+	background-size:1366px 768px;
+	height:768px;
+	width:1366
+	
+	
+}
+
+#full
+{
+	
+	height:768px;
+	width:1366;
+	margin-left:-3px;
+	
+	
+}
+#background
+{
+	background-image:url(../img/newContact.jpg);
+	background-repeat:no-repeat;
+	background-size:1366px 768px;
+	height:768px;
+	width:1366
+	
+	
+	
+}
+#backgroundEmily
+{
+	background-image:url(../img/newWhoweare.jpg);
+	background-repeat:no-repeat;
+	background-size:1366px 768px;
+	height:768px;
+	width:1366
+	}
+
+#shadow
+{
+	height: 676px;
+width: 494px;
+background-color: #69635C;
+opacity: 0.9;
+margin: 33px 0 0 50px;
+}
+
+
+
+
+#submain1
+{
+width:668px;
+height:384px;
+background-image:url(../img/whoog.jpg);
+background-repeat:no-repeat;
+background-size:668px 384px;
+
+}
+
+
+
+#submain1>a{ display: none;}
+#submain1:hover>a{ display: block;
+text-decoration:none;
+text-align:center;
+
+
+}
+#submain1:hover
+{
+	width:668px;
+height:384px;
+background-image:url(../img/whodk.jpg);
+background-repeat:no-repeat;
+background-size:668px 384px;
+
+	
+
+}
+.darken
+{
+	opacity:1;
+	text-align:center;
+	text-decoration:none;
+	
+}
+
+
+
+#submain2
+{
+width:668px;
+height:384px;
+background-image:url(../img/whatog.jpg);
+background-repeat:no-repeat;
+background-size:668px 384px;
+float:right;
+}
+
+#submain2>a{ display: none;}
+#submain2:hover>a{ display: block;
+text-decoration:none;
+text-align:center;
+
+
+}
+#submain2:hover
+{
+	width:668px;
+height:384px;
+background-image:url(../img/whatdk.jpg);
+background-repeat:no-repeat;
+background-size:668px 384px;
+float:right;
+
+}
+
+#submain3
+{
+width:668px;
+height:384px;
+background-image:url(../img/howog.jpg);
+background-repeat:no-repeat;
+background-size:668px 384px;
+
+
+}
+
+#submain3>a{ display: none;}
+#submain3:hover>a{ display: block;
+text-decoration:none;
+text-align:center;
+
+
+}
+#submain3:hover
+{
+	width:668px;
+height:384px;
+background-image:url(../img/howdk.jpg);
+background-repeat:no-repeat;
+background-size:668px 384px;
+
+
+}
+#submain4
+{
+width:668px;
+height:384px;
+background-image:url(../img/contactog.jpg);
+background-repeat:no-repeat;
+background-size:668px 384px;
+float:right;
+}
+#submain4>a{ display: none;}
+#submain4:hover>a{ display: block;
+text-decoration:none;
+text-align:center;
+
+
+}
+#submain4:hover
+{
+	width:668px;
+height:384px;
+background-image:url(../img/contactdk.jpg);;
+background-repeat:no-repeat;
+background-size:668px 384px;
+float:right;
+
+
+
+}
+#whoweare
+{
+	font-family: Cheddar Jack;
+color: black;
+font-size: 78px;
+letter-spacing: 2px;
+margin-left: 168px;
+margin-top: 19px;
+margin-top: 27px;
+	
+	
+	
+	
+}
+#contwho
+{
+text-transform: uppercase;
+font-family: Orator Std Medium;
+font-size: 23px;
+color: white;
+word-spacing: 13px;
+line-height: 1.4;
+padding-left: 10px;
+padding-top: 18px;
+margin-top: -44px;
+margin-left: 62px;
+letter-spacing: 3px;
+}
+#contwhoweare
+{
+text-transform: uppercase;
+font-family:Orator Std Medium;
+font-size: 17px;
+color: white;
+word-spacing: 11px;
+line-height: 2.2;
+padding-left: 27px;
+padding-top: 0px;
+	
+}
+#bio1
+{
+	text-decoration:none;
+	color:black;
+	text-transform:uppercase;
+	text-align:center;
+	font-family:Orator Std Medium;
+	font-size:26px;
+	line-height:1.6;
+	margin-bottom:4px;
+	margin-left:130px;
+	margin-top:5px;
+	font:bold;
+}
+#bio2
+{
+	text-decoration:none;
+	color:black;
+	text-transform:uppercase;
+	text-align:center;
+	font-family:Orator Std Medium;
+	font-size:26px;
+	line-height:1.6;
+	margin-bottom:4px;
+	margin-left:157px;
+	font:bold;
+}
+#bio3
+{
+	text-decoration:none;
+	color:black;
+	text-transform:uppercase;
+	text-align:center;
+	font-family:Orator Std Medium;
+	font-size:26px;
+	line-height:1.6;
+	margin-bottom:4px;
+	margin-left:142px;
+	font:bold;
+	
+	
+}
+#titleemily
+{
+	font-family:Orator Std Medium;
+color: white;
+font-size: 33px;
+letter-spacing: 5px;
+margin-top: 20px;
+margin-left: 251px;
+}
+#main1
+{
+	
+	height:384px;
+	width:1366px;
+	
+	
+}
+#main2
+{
+	
+	height:384px;
+	width:1366px;
+	
+	
+	
+}
+#titlecontactus
+{
+	font-family:Cheddar Jack;
+font-size: 89px;
+color: white;
+margin-top: 9px;
+margin-left: 174px;
+}
+	
+	
+
+#emailcontactus
+{
+	font-family:Orator Std Medium;
+color: white;
+text-decoration: none;
+margin-left: 164px;
+margin-top: -40px;
+letter-spacing: 7px;
+margin-left: 178px;
+margin-top: -31px;
+word-spacing: 11px;
+font-size: 41px;
+}
+#socialmediacontactus
+{
+	font-family:Cheddar Jack;
+font-size: 88px;
+color: white;
+margin-left: 138px;
+margin-top: -14px;
+}
+#text
+{
+	font-family:Cheddar Jack;
+	font-size:80px;
+	cursor:pointer;
+	color:white;
+	margin: 326px 0 0 783px;
+	
+	
+}
+#w1
+{
+margin-top:334;
+font-family:Cheddar Jack;
+font-size:80px;
+color:white;	
+text-decoration:none;
+margin-left:10px;
+margin-top:4px;
+
+}
+#w2
+{
+margin-top:334;
+font-family:Cheddar Jack;
+font-size:80px;
+color:white;	
+text-decoration:none;
+margin-left:51px;
+margin-top:7px;
+
+}
+#w3
+{
+margin-top: 334;
+font-family:Cheddar Jack;
+font-size: 80px;
+color: white;
+text-decoration: none;
+margin-left: -3px;
+margin-top: -11px;
+letter-spacing: -2px;
+word-spacing: 9px;
+
+}
+#w4
+{
+margin-top: 334;
+font-family: Cheddar Jack;
+font-size: 80px;
+color: white;
+text-decoration: none;
+margin-left: 2px;
+margin-top: 1px;
+
+}
+
+
+
+
+
+#titleadrianna
+{
+	font-family: "Orator Std Medium";
+color: white;
+font-size: 33px;
+letter-spacing: 5px;
+margin-top: 20px;
+margin-left: 218px;
+}
+
+#titlemellissa
+{
+	font-family: "Orator Std Medium";
+color: white;
+font-size: 33px;
+letter-spacing: 5px;
+margin-top: 20px;
+margin-left: 216px;
+}
+
+b
+{
+font-weight:bolder;	
+}
+	
+	
+	
+
+
+#imgemily
+{
+	background-image: url(../img/newEmily.jpg);
+background-repeat: no-repeat;
+background-size: 204px 198px;
+width: 300px;
+height: 200px;
+margin-left: 207px;
+margin-top: -19px;
+	
+}
+#caption
+{
+font-family: "Orator Std Medium";
+font-size: 18px;
+text-align: center;
+color: black;
+word-spacing: 2px;
+letter-spacing: 3px;
+margin-left: -700px;
+margin-top: -2px;
+	
+}
+#imgadri
+{
+	background-image:url(../img/);
+	background-repeat:no-repeat;
+	background-size: 181px 177px;
+	width:300px;
+	height:200px;
+	margin-left:154px;
+	
+}
+#imgmeli
+{
+	background-image:url(../img/);
+	background-repeat:no-repeat;
+	background-size: 181px 177px;
+	width:300px;
+	height:200px;
+	margin-left:154px;
+	
+}
+#contemily
+{
+text-transform: uppercase;
+font-family: "Orator Std Medium";
+font-size: 20px;
+color: white;
+word-spacing: 11px;
+line-height: 1.5;
+padding-left: 27px;
+padding-top: -42px;
+letter-spacing: 4px;
+margin-left: 30px;
+
+	
+}
+
+
+	
+
+
+
+#backemily
+{
+background-image: url(../img/new-back.png);
+background-repeat: no-repeat;
+width: 100px;
+height: 159px;
+background-size: 60px 155px;
+margin-top: -127px;
+margin-left: -20px;
+margin-bottom: 0px;
+cursor: pointer;
+
+}
+#backadrianna
+{
+	background-image: url(../img/new-back.png);
+background-repeat: no-repeat;
+width: 100px;
+height: 159px;
+background-size: 60px 155px;
+margin-top: 253px;
+margin-left: -16px;
+margin-bottom: 0px;
+cursor:pointer;
+	
+}
+
+#backMelissa
+{
+background-image: url(../img/new-back.png);
+background-repeat: no-repeat;
+width: 100px;
+height: 159px;
+background-size: 62px 155px;
+margin-top: 253px;
+margin-left: -21px;
+margin-bottom: 0px;
+cursor: pointer;
+}
+
+#backwho
+{
+
+width: 100px;
+height: 159px;
+
+margin-top: -133px;
+margin-left: -21px;
+margin-bottom: 0px;
+cursor: pointer;
+}
+
+	#backcontactus
+{
+background-image: url(../img/new-back.png);
+background-repeat: no-repeat;
+width: 100px;
+height: 155px;
+margin-bottom: -23px;
+background-size: 66px 155px;
+margin-top: -112px;
+margin-left: -19px;
+cursor:pointer;
+}
+
+
+
+#weblink
+{
+color: white;
+font-family: "Orator Std Medium";
+text-align: center;
+text-decoration: none;
+margin-left: -715px;
+font-size: 32px;
+text-align: center;
+letter-spacing: 3px;
+margin-top: 8px;
+
+
+}
+#webli
+{
+margin-top:-21px;	
+	
+}
+
+
+
+#facebook
+{
+	background-image: url(../img/fbtrans.png);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+height: 100px;
+width: 100px;
+margin-left: 268px;
+margin-top: -12px;
+cursor: pointer;
+	
+}
+#Instagram
+{
+background-image: url(../img/instatrans.png);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+height: 100px;
+width: 100px;
+margin-left: 265px;
+margin-top: 14px;
+cursor: pointer;
+
+}
+	
+	
+	
+
+
+#twitter
+{
+background-image: url(../img/twitertrans.jpg);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+height: 100px;
+width: 100px;
+margin-left: 268px;
+margin-top: 7px;
+cursor: pointer;
+	
+	
+}
+#logo
+{
+background-image: url(../img/hometrans.png);
+background-repeat: no-repeat;
+background-size: 291px 145px;
+height: 162px;
+width: 303px;
+margin-top: -302px;
+margin-left: 888px;
+cursor: pointer;
+}
+
+
+#logo1
+{
+background-image: url(../img/logocontactus.png);
+background-repeat: no-repeat;
+background-size: 291px 145px;
+height: 162px;
+width: 303px;
+margin-top: -163px;
+margin-left: 1027px;
+cursor:pointer;
+}
+
+#Emilylogo
+{
+background-image: url(../img/logocontactus.png);
+background-repeat: no-repeat;
+background-size: 291px 145px;
+height: 162px;
+width: 303px;
+margin-top: -196px;
+margin-left: 1027px;
+cursor:pointer;
+}
+#logoadrianna
+{
+	background-image: url(../img/logocontactus.png);
+background-repeat: no-repeat;
+background-size: 291px 145px;
+height: 162px;
+width: 303px;
+margin-top: -190px;
+margin-left: 1027px;
+	cursor:pointer;
+	}
+
+
+
+#3link a:link,
+#3link a:visited,
+#3link a:hover
+{
+	text-decoration: none;
+	font-family:"Orator Std Medium";
+	color:black;
+	font-size:50px;
+	padding-left:130px;
+	letter-spacing:2px;
+	text-decoration:none;
+	margin-top:2px;
+	margin-left:10px;
+	
+}
+#link3
+{
+	text-decoration: none;
+	font-family:"Orator Std Medium";
+	color:black;
+	font-size:50px;
+	padding-left:130px;
+	letter-spacing:2px;
+	text-decoration:none;
+	
+	margin-left:10px;
+	
+}
+
+#bio
+{
+	
+	margin-top:-41px;
+	
+}
+
+
+.bioem
+{
+	margin-left:23px;
+	
+}
+.biomel
+{
+margin-left:6px;	
+}
+
+#links
+{
+	margin: 0 0 0 163px;
+	
+}
+
+
+#unstylelink
+{
+text-decoration:none;
+color:white;	
+}
+
