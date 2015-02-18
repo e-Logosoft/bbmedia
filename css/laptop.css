@@ -161,12 +161,12 @@ cursor: pointer;
 
 #logoadrianna
 {
-	background-image: url(../img/logocontactus.png);
+	background-image: url(../img/logoEmily.png);
 background-repeat: no-repeat;
-background-size: 291px 145px;
+background-size: 272px 145px;
 height: 162px;
-width: 303px;
-margin-top: -67px;
+width: 275px;
+margin-top: -42px;
 margin-left: 826px;
 cursor: pointer;
 	}
@@ -225,7 +225,7 @@ color: white;
 font-size: 26px;
 letter-spacing: 5px;
 margin-top: 5px;
-margin-left: 239px;
+margin-left: 243px;
 }
 
 #Emilylogo
@@ -278,29 +278,466 @@ margin-bottom: 0px;
 cursor: pointer;
 }
 
-#contadri
+
+
+#imgmeli{
+	
+	margin-top: 119px;
+margin-left: -249px;
+	}
+#titlemeli
+{
+	padding-top: 62px;
+font-family: Orator Std Medium;
+color: white;
+font-size: 26px;
+letter-spacing: 5px;
+margin-top: 5px;
+margin-left: 239px;
+}
+
+#melilogo
+{
+
+background-repeat: no-repeat;
+background-size: 272px 145px;
+height: 162px;
+width: 275px;
+margin-top: -231px;
+margin-left: 907px;
+cursor: pointer;
+}
+
+#captionmeli
 {
 font-family: "Orator Std Medium";
-font-size: 20px;
+font-size: 16px;
 text-align: center;
-color: white;
-word-spacing: 10px;
+color: black;
+word-spacing: 2px;
 letter-spacing: 3px;
-margin-left: -259px;
-margin-top: -2px;}
+margin-left: -269px;
+margin-top: 23px;
+	
+}
 
 #contmeli
 {
 font-family: "Orator Std Medium";
 font-size: 20px;
-text-align: center;
+text-align: justify;
 color: white;
 word-spacing: 10px;
 letter-spacing: 3px;
-margin-left: -259px;
+margin-left: 70px;
 margin-top: -2px;
 line-height: 1.3;
+	
 }
+#backmeli
+{
+background-repeat: no-repeat;
+width: 49px;
+height: 159px;
+background-size: 60px 155px;
+margin-top: -129px;
+margin-left: -21px;
+margin-bottom: 0px;
+cursor: pointer;
+}
+
+
+#imgadri{
+	
+	margin-top: 119px;
+margin-left: -249px;
+	}
+#titleadri
+{
+	padding-top: 62px;
+font-family: Orator Std Medium;
+color: white;
+font-size: 26px;
+letter-spacing: 5px;
+margin-top: 5px;
+margin-left: 216px;
+}
+
+#adrilogo
+{
+
+background-repeat: no-repeat;
+background-size: 272px 145px;
+height: 162px;
+width: 275px;
+margin-top: -231px;
+margin-left: 907px;
+cursor: pointer;
+}
+
+#captionadri
+{
+font-family: "Orator Std Medium";
+font-size: 16px;
+text-align: center;
+color: black;
+word-spacing: 2px;
+letter-spacing: 3px;
+margin-left: -269px;
+margin-top: 23px;
+	
+}
+
+#contadri
+{
+font-family: "Orator Std Medium";
+font-size: 20px;
+text-align: justify;
+color: white;
+word-spacing: 10px;
+letter-spacing: 3px;
+margin-left: 70px;
+margin-top: -2px;
+line-height: 1.3;
+	
+}
+#backadri
+{
+background-repeat: no-repeat;
+width: 49px;
+height: 159px;
+background-size: 60px 155px;
+margin-top: -129px;
+margin-left: -21px;
+margin-bottom: 0px;
+cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#Contactus{
+	background-image:url(../img/newContact.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 768px;
+	width:100%;
+	height:768px;
+	
+}
+
+
+
+
+#weblink
+{
+color: white;
+font-family: "Orator Std Medium";
+text-align: center;
+text-decoration: none;
+margin-left: -704px;
+font-size: 32px;
+text-align: center;
+letter-spacing: 3px;
+margin-top: 8px;
+
+
+}
+
+#titlecontactus
+{
+font-family: "Cheddar Jack";
+font-size: 89px;
+color: white;
+margin-top: 80px;
+margin-left: 160px;
+}
+	
+	
+
+#emailcontactus
+{
+	font-family: "Orator Std Medium";
+color: white;
+text-decoration: none;
+margin-left: 164px;
+margin-top: -40px;
+letter-spacing: 5px;
+margin-left: 168px;
+margin-top: -28px;
+word-spacing: 6px;
+font-size: 41px;
+}
+
+
+#socialmediacontactus
+{
+	font-family: "Cheddar Jack";
+font-size: 75px;
+color: white;
+margin-left: 144px;
+margin-top: -14px;
+}
+
+#facebook
+{
+	background-image: url(../img/fbtrans.png);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+height: 100px;
+width: 100px;
+margin-left: 243px;
+margin-top: -12px;
+cursor: pointer;
+	
+}
+#Instagram
+{
+background-image: url(../img/instatrans.png);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+height: 100px;
+width: 100px;
+margin-left: 249px;
+margin-top: 28px;
+cursor: pointer;
+}
+
+#twitter
+{
+background-image: url(../img/twitertrans.png);
+background-repeat: no-repeat;
+background-size: 100px 100px;
+height: 100px;
+width: 100px;
+margin-left: 249px;
+margin-top: 27px;
+cursor: pointer;	
+	
+}
+	#backcontactus
+{
+
+background-repeat: no-repeat;
+width: 58px;
+height: 155px;
+margin-bottom: -23px;
+margin-top: -123px;
+margin-left: -31px;
+cursor: pointer;
+}
+
+
+#logo1
+{
+
+background-repeat: no-repeat;
+background-size: 291px 145px;
+height: 162px;
+width: 303px;
+margin-top: -163px;
+margin-left: 861px;
+cursor: pointer;
+
+}
+
+/*...Contact over..*/
+
+/*...Rollup begin..*/
+
+@font-face {
+
+    font-family: Cheddar Jack;
+
+    src: local(bttf_font), url('fonts/Cheddar Jack.ttf') format('opentype');
+
+}
+
+	#Library {
+   background-image:url(../img/whoog.jpg);
+   background-repeat:no-repeat;
+background-size:674.5px 384px;
+   height: 384px;
+   width: 674.5px;
+}
+
+#Library:hover {
+   background-image:url(../img/whodk.jpg);
+   width: 674.5px;
+   height: 384px;
+    background-repeat:no-repeat;
+background-size:674.5px 384px;
+}
+
+
+
+#Library1 {
+   background-image:url(../img/whatog.jpg);
+   height: 384px;
+   width: 674.5px;
+    background-repeat:no-repeat;
+background-size:674.5px 384px;
+}
+
+#Library1:hover {
+   background-image:url(../img/whatdk.jpg);
+   width: 674.5px;
+   height: 384px;
+    background-repeat:no-repeat;
+background-size:674.5px 384px;
+}
+	#Library2 {
+   background-image:url(../img/howog.jpg);
+   height: 384px;
+   width: 674.5px;
+    background-repeat:no-repeat;
+background-size:674.5px 384px;
+margin-left:0px;
+}
+
+#Library2:hover {
+   background-image:url(../img/howdk.jpg);
+   width: 674.5px;
+   height: 384px;
+    background-repeat:no-repeat;
+background-size:674.5px 384px;
+margin-left:0px;
+}
+
+#Library3 {
+   background-image:url(../img/contactog.jpg);
+   height: 384px;
+   width: 674.5px;
+    background-repeat:no-repeat;
+background-size:674.5px 384px;
+}
+
+#Library3:hover {
+   background-image:url(../img/contactdk.jpg);
+   width: 674.5px;
+   height: 384px;
+    background-repeat:no-repeat;
+background-size:674.5px 384px;
+}
+#rowc
+{
+	margin-left:0px;
+	margin-right:0px;
+
+
+}
+
+#w1
+{
+
+font-family:"Cheddar jack";
+font-size:80px;
+color:white;	
+text-decoration:none;
+margin-left:188px;
+
+
+}
+#w2
+{
+margin-top:334;
+font-family:"Cheddar jack";
+font-size:80px;
+color:white;	
+text-decoration:none;
+margin-left:190px;
+margin-top:7px;
+
+}
+#w3
+{
+margin-top: 334;
+font-family: "Cheddar jack";
+font-size: 80px;
+color: white;
+text-decoration: none;
+margin-left: 51px;
+margin-top: -11px;
+letter-spacing: -2px;
+word-spacing: 9px;
+
+}
+#w4
+{
+margin-top: 334;
+font-family: "Cheddar jack";
+font-size: 80px;
+color: white;
+text-decoration: none;
+margin-left: 51px;
+margin-top: 1px;
+}
+.darken
+{
+	opacity:1;
+	text-align:center;
+	text-decoration:none;
+	
+
+}
+#Library>a{ display: none;}
+#Library:hover>a{ display: block;
+text-decoration: none;
+text-align: center;
+margin-left: 27px;
+margin-top: 3px;
+
+
+}
+#Library1>a{ display: none;}
+#Library1:hover>a{ display: block;
+text-decoration: none;
+text-align: center;
+margin-left: 27px;
+margin-top: 3px;
+}
+
+
+#Library2>a{ display: none;}
+#Library2:hover>a{ display: block;
+text-decoration:none;
+text-align:center;
+
+
+}
+#Library3>a{ display: none;}
+#Library3:hover>a{ display: block;
+text-decoration: none;
+text-align: center;
+margin-left: 2px;
+margin-top: -20px;
+
+
+}
+
+
+
+
+
+
+/*...Rollup end..*/
+
+
 }
 
 
